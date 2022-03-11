@@ -18,21 +18,23 @@
   
   <entry>
     <title>新文章</title>
-    <link href="http://example.com/wiki/%E6%96%B0%E6%96%87%E7%AB%A0/"/>
-    <id>http://example.com/wiki/%E6%96%B0%E6%96%87%E7%AB%A0/</id>
+    <link href="http://example.com/wiki/%E6%8A%80%E6%9C%AF/%E6%96%B0%E6%96%87%E7%AB%A0/"/>
+    <id>http://example.com/wiki/%E6%8A%80%E6%9C%AF/%E6%96%B0%E6%96%87%E7%AB%A0/</id>
     <published>2022-03-10T05:30:02.000Z</published>
     <updated>2022-03-10T05:30:02.849Z</updated>
     
     
     
     
+    <category term="技术" scheme="http://example.com/categories/%E6%8A%80%E6%9C%AF/"/>
+    
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/wiki/hello-world/"/>
-    <id>http://example.com/wiki/hello-world/</id>
+    <link href="http://example.com/wiki/%E6%8A%80%E6%9C%AF/hello-world/"/>
+    <id>http://example.com/wiki/%E6%8A%80%E6%9C%AF/hello-world/</id>
     <published>2022-03-10T05:21:23.206Z</published>
     <updated>1985-10-26T08:15:00.000Z</updated>
     
@@ -45,6 +47,8 @@
       
     
     
+    
+    <category term="技术" scheme="http://example.com/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
   </entry>

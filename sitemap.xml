@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/wiki/%E6%96%B0%E6%96%87%E7%AB%A0/</loc>
+    <loc>http://example.com/wiki/%E6%8A%80%E6%9C%AF/%E6%96%B0%E6%96%87%E7%AB%A0/</loc>
     
     <lastmod>2022-03-10</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/wiki/hello-world/</loc>
+    <loc>http://example.com/wiki/%E6%8A%80%E6%9C%AF/hello-world/</loc>
     
     <lastmod>1985-10-26</lastmod>
     
@@ -56,5 +56,12 @@
 
   
 
+  
+  <url>
+    <loc>http://example.com/categories/%E6%8A%80%E6%9C%AF/</loc>
+    <lastmod>2022-03-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>
