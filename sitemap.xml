@@ -2,9 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://example.com/wiki/%E6%8A%80%E6%9C%AF/nvm%E5%B7%A5%E5%85%B7%E5%88%87%E6%8D%A2node%E7%89%88%E6%9C%AC/</loc>
+    
+    <lastmod>2022-04-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://example.com/wiki/%E6%8A%80%E6%9C%AF/hexo%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</loc>
     
-    <lastmod>2022-04-13</lastmod>
+    <lastmod>2022-04-14</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -40,17 +49,31 @@
 
   <url>
     <loc>http://example.com/</loc>
-    <lastmod>2022-04-13</lastmod>
+    <lastmod>2022-04-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
+  <url>
+    <loc>http://example.com/tags/node-js/</loc>
+    <lastmod>2022-04-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/hexo/</loc>
+    <lastmod>2022-04-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
     <loc>http://example.com/categories/%E6%8A%80%E6%9C%AF/</loc>
-    <lastmod>2022-04-13</lastmod>
+    <lastmod>2022-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
